@@ -1,5 +1,14 @@
-# SQL Library Project
+# Public Library Database (MySQL)
 
-This repository contains the MySQL schema for a sample database project.  
-The script `schema.sql` includes table creation statements and can be run in MySQL Workbench to set up the schema.  
-It demonstrates fundamental database design skills, including schema definition, keys, and relationships.  
+Relational schema with 15+ tables, constraints, and reporting queries.  
+**Stack:** MySQL, SQL Workbench
+
+## Overview
+- ER model & normalized schema
+- Borrowing, membership, fines logic
+- Reporting queries (utilisation, overdue, top borrowers)
+
+## Run locally
+1) Create database:
+```sql
+SOURCE sql/schema.sql;
