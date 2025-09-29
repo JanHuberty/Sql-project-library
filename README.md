@@ -14,7 +14,7 @@ Relational schema with 15+ tables, constraints, and reporting queries.
 ## Quick Start
 1) Create schema:
 ```sql
-SOURCE sql/schema.sql;
+SOURCE sql/Schema.sql;
 SOURCE sql/seed.sql;
 SOURCE sql/reports.sql;
 
