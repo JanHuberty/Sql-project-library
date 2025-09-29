@@ -1,3 +1,6 @@
+![Links](https://github.com/JanHuberty/Sql-project-library/actions/workflows/links.yml/badge.svg)
+![License](https://img.shields.io/github/license/JanHuberty/Sql-project-library)
+
 # Public Library Database (MySQL)
 
 Relational schema with 15+ tables, constraints, and reporting queries.  
