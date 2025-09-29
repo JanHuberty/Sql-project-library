@@ -3,7 +3,7 @@
 
 # Public Library Database (MySQL)
 
-Relational schema with 15+ tables, constraints, and reporting queries.  
+Relational schema with 15+ tables, constraints and reporting queries.  
 **Stack:** MySQL, SQL Workbench
 
 ## Overview
