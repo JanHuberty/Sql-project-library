@@ -8,7 +8,16 @@ Relational schema with 15+ tables, constraints, and reporting queries.
 - Borrowing, membership, fines logic
 - Reporting queries (utilisation, overdue, top borrowers)
 
-## Run locally
-1) Create database:
+## Quick Start
+1) Create schema:
 ```sql
 SOURCE sql/schema.sql;
+SOURCE sql/seed.sql;
+SOURCE sql/reports.sql;
+
+## 4.5 ER diagram (visual)
+- Export or screenshot your ERD → upload as `docs/erd.png`
+- Embed in README:
+```md
+## Schema
+![ERD](docs/erd.png)
