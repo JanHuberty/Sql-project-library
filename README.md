@@ -1,4 +1,4 @@
-![Links](https://github.com/JanHuberty/Sql-project-library/actions/workflows/links.yml/badge.svg)
+[![Links](https://github.com/JanHuberty/Sql-project-library/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/JanHuberty/Sql-project-library/actions/workflows/links.yml)
 ![License](https://img.shields.io/github/license/JanHuberty/Sql-project-library)
 
 # Public Library Database (MySQL)
