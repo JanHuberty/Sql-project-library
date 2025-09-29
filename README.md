@@ -24,3 +24,13 @@ SOURCE sql/reports.sql;
 ```md
 ## Schema
 ![ERD](docs/erd.png)
+### Makefile (optional)
+```bash
+# set env vars if needed: USER, PASS, DB, HOST
+make schema
+make seed
+make reports
+
+---
+
+
